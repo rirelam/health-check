@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { NxWelcomeComponent } from './nx-welcome.component';
 import { HomeComponent } from './home/home.component';
 import { FetchDataComponent } from './fetch-data/fetch-data.component';
+import { NavMenuComponent } from './nav-menu/nav-menu.component';
 
 @NgModule({
   declarations: [
@@ -12,6 +13,7 @@ import { FetchDataComponent } from './fetch-data/fetch-data.component';
     NxWelcomeComponent,
     HomeComponent,
     FetchDataComponent,
+    NavMenuComponent,
   ],
   imports: [BrowserModule],
   providers: [],
