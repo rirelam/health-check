@@ -73,3 +73,7 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+apps/back/HealthCheckApi/obj/HealthCheckApi.csproj.nuget.dgspec.json
+apps/back/HealthCheckApi/obj/HealthCheckApi.csproj.nuget.g.props
+apps/back/HealthCheckApi/obj/project.assets.json
+apps/back/HealthCheckApi/obj/project.nuget.cache
