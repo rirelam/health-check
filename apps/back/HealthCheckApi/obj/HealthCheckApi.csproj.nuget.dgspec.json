@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\HD_PROJECTS\\SAMPLES\\FullStack.Net-Angular\\health-check\\apps\\back\\HealthCheckApi\\HealthCheckApi.csproj": {}
+    "D:\\HD_PROJECTS\\SAMPLES\\FULL_STACK\\health-check\\apps\\back\\HealthCheckApi\\HealthCheckApi.csproj": {}
   },
   "projects": {
-    "D:\\HD_PROJECTS\\SAMPLES\\FullStack.Net-Angular\\health-check\\apps\\back\\HealthCheckApi\\HealthCheckApi.csproj": {
+    "D:\\HD_PROJECTS\\SAMPLES\\FULL_STACK\\health-check\\apps\\back\\HealthCheckApi\\HealthCheckApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\HD_PROJECTS\\SAMPLES\\FullStack.Net-Angular\\health-check\\apps\\back\\HealthCheckApi\\HealthCheckApi.csproj",
+        "projectUniqueName": "D:\\HD_PROJECTS\\SAMPLES\\FULL_STACK\\health-check\\apps\\back\\HealthCheckApi\\HealthCheckApi.csproj",
         "projectName": "HealthCheckApi",
-        "projectPath": "D:\\HD_PROJECTS\\SAMPLES\\FullStack.Net-Angular\\health-check\\apps\\back\\HealthCheckApi\\HealthCheckApi.csproj",
-        "packagesPath": "C:\\Users\\rlamar\\.nuget\\packages\\",
-        "outputPath": "D:\\HD_PROJECTS\\SAMPLES\\FullStack.Net-Angular\\health-check\\apps\\back\\HealthCheckApi\\obj\\",
+        "projectPath": "D:\\HD_PROJECTS\\SAMPLES\\FULL_STACK\\health-check\\apps\\back\\HealthCheckApi\\HealthCheckApi.csproj",
+        "packagesPath": "C:\\Users\\r.lamar\\.nuget\\packages\\",
+        "outputPath": "D:\\HD_PROJECTS\\SAMPLES\\FULL_STACK\\health-check\\apps\\back\\HealthCheckApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rlamar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\r.lamar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
