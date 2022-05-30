@@ -4,8 +4,6 @@
 /dist
 /tmp
 /out-tsc
-/*obj
-/*/bin
 
 # dependencies
 node_modules
