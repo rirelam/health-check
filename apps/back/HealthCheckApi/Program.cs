@@ -19,9 +19,9 @@ builder.Services.AddCors(options =>
 
 builder.Services.AddHealthChecks()
   .AddCheck("ICMP_01",
-    new ICMPHealthCheck("www.ryadel.com", 100))
+    new ICMPHealthCheck("www.ryadel.com", 150))
   .AddCheck("ICMP_02",
-    new ICMPHealthCheck("www.google.com", 100))
+    new ICMPHealthCheck("www.google.com", 150))
   .AddCheck("ICMP_03",
     new ICMPHealthCheck($"www.{Guid.NewGuid():N}.com", 100));
 
