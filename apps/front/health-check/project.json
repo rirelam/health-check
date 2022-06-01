@@ -17,7 +17,9 @@
           "apps/front/health-check/src/favicon.ico",
           "apps/front/health-check/src/assets"
         ],
-        "styles": ["apps/front/health-check/src/styles.scss"],
+        "styles": [
+          "./node_modules/@angular/material/prebuilt-themes/indigo-pink.css",
+          "apps/front/health-check/src/styles.scss"],
         "scripts": []
       },
       "configurations": {
